@@ -1,0 +1,32 @@
+[
+    {
+        "id"    :  1,
+        "img"   : "/tab1/01.jpg",
+        "link"  : "https://jiligames.com/PlusIntro/49?showGame=true"
+    },
+    {
+        "id"    :  2,
+        "img"   : "/tab1/02.jpg",
+        "link"  : "https://jiligames.com/PlusIntro/300?showGame=true"
+    },
+    {
+        "id"    :  3,
+        "img"   : "/tab1/03.jpg",
+        "link"  : "https://jiligames.com/PlusIntro/300?showGame=true"
+    },
+    {
+        "id"    :  4,
+        "img"   : "/tab1/04.jpg",
+        "link"  : "https://aviator-demo.spribegaming.com/?currency=USD&operator=demo&jurisdiction=CW&lang=EN&return_url=https%3A%2F%2Fspribe.co%2Fgames&user=51414&token=vJFIB2GUVQBnK1n0PCkNfWfmJMtDgYme"
+    },
+    {
+        "id"    :  5,
+        "img"   : "/tab1/05.jpg",
+        "link"  : "https://jiligames.com/PlusIntro/77?showGame=true"
+    },
+    {
+        "id"    :  6,
+        "img"   : "/tab1/06.jpg",
+        "link"  : "https://jiligames.com/PlusIntro/261?showGame=true"
+    }
+]

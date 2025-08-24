@@ -1,0 +1,32 @@
+[
+    {
+        "id"    :  1,
+        "img"   : "/tab2/01.jpeg",
+        "link"  : "https://jiligames.com/PlusIntro/461?showGame=true"
+    },
+    {
+        "id"    :  2,
+        "img"   : "/tab2/02.jpeg",
+        "link"  : "https://jiligames.com/PlusIntro/472?showGame=true"
+    },
+    {
+        "id"    :  3,
+        "img"   : "/tab2/03.jpeg",
+        "link"  : "https://jiligames.com/PlusIntro/523?showGame=true"
+    },
+    {
+        "id"    :  4,
+        "img"   : "/tab2/04.jpeg",
+        "link"  : "https://jiligames.com/PlusIntro/460?showGame=true"
+    },
+    {
+        "id"    :  5,
+        "img"   : "/tab2/05.jpeg",
+        "link"  : "https://jiligames.com/PlusIntro/517?showGame=true"
+    },
+    {
+        "id"    :  6,
+        "img"   : "/tab2/06.jpeg",
+        "link"  : "https://jiligames.com/PlusIntro/485?showGame=true"
+    }
+]
