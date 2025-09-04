@@ -47,10 +47,11 @@ export default function Bslider() {
             
             <div className='bg-[#147b44] mt-2 text-yellow-300'>
                 <Marquee className='text-sm py-1'>
-                    এই ওয়েবসাইট Fashion Forward দ্বারা নির্মিত । যোগাযোগ: ০১৭৭৮২২৯৬৯২ ।
+                    এই ওয়েবসাইট Fashion Forward দ্বারা নির্মিত । যোগাযোগ: 01779775264
                 </Marquee>
             </div>
 
         </div>
     );
 }
+
